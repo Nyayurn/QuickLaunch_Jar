@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
  * @author ANMSakura
  */
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String... args) throws IOException {
         if (args.length == 0) {
             return;
         }

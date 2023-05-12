@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JarRunner.iml" filepath="$PROJECT_DIR$/JarRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickLaunch_Jar.iml" filepath="$PROJECT_DIR$/QuickLaunch_Jar.iml" />
     </modules>
   </component>
 </project>
