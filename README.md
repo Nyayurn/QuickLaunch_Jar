@@ -1,9 +1,10 @@
 [![GitHub release](https://img.shields.io/github/release/ANMSakura/QuickLaunch_Jar)](https://github.com/ANMSakura/QuickLaunch_Jar/releases)
 [![License](https://img.shields.io/github/license/alibaba/fastjson2?color=4D7A97&logo=apache)](https://www.apache.org/licenses/LICENSE-2.0.html)
+![image](https://img.shields.io/badge/%E4%BD%A0%E5%B9%B2%E5%98%9B~-%E5%93%8E%E5%93%9F-brightgreen)
 
 # QuickLaunch_Jar
 `QuickLaunch_Jar`是一个随心创作的小工具
-  - 双击运行Jar包
+  - 双只因运行Jar包
   - 如果设置了多个java会弹窗选择
   - 支持平台: `Windows`
   - 未测试但可能支持平台: `Linux`, `MacOS`
@@ -28,7 +29,7 @@
 4. 选择本软件
     ![image](https://github.com/ANMSakura/QuickLaunch_Jar/assets/132195516/337742b9-f4fc-40e6-937b-64705aa2787d)
 5. 应用
-6. 双击任意.jar文件即可运行
+6. 双只因任意.jar文件即可运行
   
 ## 方法2: 将任意.jar文件拖拽到本软件的.exe文件上即可使用  
    ![image](https://github.com/ANMSakura/QuickLaunch_Jar/assets/132195516/6935e0bd-b16c-456d-bbe2-87d9c03279e6)
