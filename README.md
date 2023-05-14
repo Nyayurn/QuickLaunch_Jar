@@ -32,3 +32,8 @@
   
 ## 方法2: 将任意.jar文件拖拽到本软件的.exe文件上即可使用  
    ![image](https://github.com/ANMSakura/QuickLaunch_Jar/assets/132195516/6935e0bd-b16c-456d-bbe2-87d9c03279e6)
+
+# 配置文件
+  - 请放在与本软件同级目录下
+  - 如果没有配置文件，则会自动使用环境变量的java运行jar(不弹出选择框)
+  - 配置方法请参考JavaFiles.json
