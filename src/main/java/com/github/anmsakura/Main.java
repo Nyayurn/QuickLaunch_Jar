@@ -82,7 +82,7 @@ public class Main {
         }
 
         // 从配置文件中加载Java文件列表。
-        File javaFile = new File(new File(Main.class.getProtectionDomain().getCodeSource().getLocation().getPath()).getParent() + File.separator + "JavaFiles.json");
+        File javaFile = new File("JavaFiles.json");
         Set<JavaFile> javaFiles = new HashSet<>();
         if (javaFile.exists()) {
             try (Stream<String> stream = Files.lines(javaFile.toPath(), StandardCharsets.UTF_8)) {
