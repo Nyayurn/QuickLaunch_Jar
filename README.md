@@ -15,8 +15,7 @@
   - 打开的.jar文件必须设置有入口(即java -jar xxx.jar必须能正常运行)
 
 # 软件效果:  
-![image](https://github.com/ANMSakura/QuickLaunch_Jar/assets/132195516/6c398861-921d-4e6a-a190-710ba1424cdc)  
-![image](https://github.com/ANMSakura/QuickLaunch_Jar/assets/132195516/fbe261e7-a358-4021-9265-1611f47b990c)
+![image](https://github.com/ANMSakura/QuickLaunch_Jar/assets/132195516/57f3ce7e-ab4c-478c-a410-945e66599c39)
 
 # 使用方法:  
 ## 方法1(推荐):  
